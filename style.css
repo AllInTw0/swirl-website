@@ -1,0 +1,76 @@
+
+body{
+    text-align: center;
+    background: orange;
+    color: white;
+}
+h1,h2{
+    text-transform: uppercase;
+    text-shadow:  2px 2px #000000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    text-shadow:  1px 1px #000000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    box-shadow:  2px 2px #0099ff;
+}
+ul{
+    text-transform: uppercase;
+    text-shadow:  1px 1px #000000;
+    display: inline-block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    text-align: left;
+}
+h1:hover,h2:hover {
+  text-shadow:  4px 4px #5130e4;
+}
+a{
+  color: Tomato;
+  text-shadow:  1px 1px #5130e4;
+  font-size: 30px;
+}
+a:hover{
+  color: SlateBlue;
+}
+/*font stuff*/
+
+.rubik-glitch-regular {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.errorLarge {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100px;
+}
+.errorMedium {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+.errorSmall {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.s1 {
+  text-shadow:  1px 1px #000000;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.s2 {
+  text-shadow:  1px 1px #5130e4;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.s3 {
+  text-shadow:  1px 1px #308de4;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
